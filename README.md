@@ -31,7 +31,7 @@ Ce projet est un script **TypeScript** pour jouer à la **bataille navale** en l
 cd NavalBattle
 ```
 
-3.Installez les dépendances nécessaires avec npm :
+3. Installez les dépendances nécessaires avec npm (vous aurez donc besoin de node, que vous pouvez installer avec la commande ```apt install node``` sur le terminal) :
 
 
 ```npm install``` ou ```npm i```
